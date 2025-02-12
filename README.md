@@ -38,11 +38,12 @@ Grifindo Travels is the transport division of **Grifindo Leisure (Pvt) Ltd**, an
 ## 📝 Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sandyy68/Grifindo-Travels-Vehicle-Management.git
+   git clone [https://github.com/Sandyy68/Grifindo-Travels-.git]
    ```
 2. **Move to the project directory:**
    ```bash
-   cd Grifindo-Travels-Vehicle-Management
+   cd /Applications/XAMPP/xamppfiles/htdocs/GrifindoTravels
+
    ```
 3. **Import the database:**
    - Open **phpMyAdmin** (or any MySQL tool)
